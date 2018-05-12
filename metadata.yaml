@@ -1,5 +1,8 @@
 _repo: Stones-of-Venice--introductions-_9804
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Ruskin, John
@@ -11,6 +14,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/John_Ruskin
 description: v. 1 Stones of Venice (vol. 1-2) -- v. 2. Stones of Venice (vol. 3) ;
   The poetry of Architecture ; Poems ; Giotto and his works in Padua.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9804#Stones-of-Venice--introductions-
 gutenberg_issued: '2006-02-01'
 gutenberg_type: Text
 identifiers:
